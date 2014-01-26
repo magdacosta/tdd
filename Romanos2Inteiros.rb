@@ -187,6 +187,7 @@ class Romanos2Inteiros
 		return m
 	end
 
+
 	def convert1s(u) 
 		m = ''
 		u = u % 10
